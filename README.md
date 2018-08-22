@@ -5,8 +5,8 @@
   依赖文件jquery，
   自定义的css样式文件
   使用方法：title--弹框的标题，可传空;
-          message--弹框提示的内容
-          buttonArr--按钮(可以是数组，如果是一个按钮，也可以是字符串)
+           message--弹框提示的内容
+           buttonArr--按钮(可以是数组，如果是一个按钮，也可以是字符串)
   var m = new AlertModel();
   m.render(title,message,buttonArr,id);
   m.showAlert('btn');
