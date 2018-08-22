@@ -1,5 +1,7 @@
 # uiReponsitiory
-平时工作中会用到很多这种组件
+平时工作中会用到很多这种组件;
+其中文件夹css,js中的组件主要用于pc端,样式单位是px;
+文件夹mobileCss,mobileJs 主要用于移动端，样式单位是rem;
 主要是ui类库，方便组件式开发
 #1、弹框 使用方法：
 #依赖文件jquery，
